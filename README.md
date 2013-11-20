@@ -1,6 +1,9 @@
 Do_Something
 ============
 
+An app that allows users to enter activities they've done and rate them.
+The user can then have a randomly selected activity returned to them for an idea of what to do when bored.
+
 Team Do Something:
 * Ryan Hedges
 * Steven Nugent
@@ -13,7 +16,7 @@ Learning Objectives / Goals:
 * Testing - Limited
 * Facebook Login
 * Sessions
-* Ajax for Some Routes (All buttons Ajax?)
+* Ajax for Some Routes
 * jQuery with some Javascript
 
 
@@ -26,11 +29,4 @@ Release 1 -
 * User can randomly pick one to do
 
 Release 2 -
-* Add filtering: Price, Location, etc
-* Add Friends (Facebook API?)
 * User can sign up with Facebook or email
-
-Release 3 -
-* APIs: Google Maps, Yelp
-
-
